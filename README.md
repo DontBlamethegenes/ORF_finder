@@ -1,4 +1,4 @@
-# Vanilla Python Gene finder
+# Vanilla Python Gene Finder
 By Alberto Aldapa
 
 
