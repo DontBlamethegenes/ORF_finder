@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# Name: Jose Alberto Aldapa (jaldapa)
-# Group Members: “None”
 '''
 Design:
 -read one sequence at a time
@@ -19,7 +16,7 @@ Design:
 Once list of list is filled out, a print method is used to make sence of data and organize it
 into a list of tuples, each tuple being an open reading frame.
 '''
-import sequenceAnalysis
+import ORF_finder_class
 
 ########################################################################
 # CommandLine
