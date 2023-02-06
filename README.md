@@ -20,8 +20,8 @@ A python class that takes in a .fasta genome file and returns a text document co
 
 ## Results:
 ![alt text](orfstxt_screenshot.jpg)
-Reference | start location | stop location | length 
+Reference | Start Location | Stop Location | Length 
 
-Each potential gene populates one line.
+Each potential gene populates one line. 
 
 
