@@ -1,10 +1,8 @@
 # Vanilla Python Gene Finder
-By Alberto Aldapa
-
 
 ## Problem: 
 Finding all the possible genes in a genome can take a very long time if done incorrectly. Regular expressions fail at edge cases and don't allow for useful user-specified parameters such as minimum length of 
-Open Reading Frame ORF.
+Open Reading Frame.
 
 ## Solution:
 A python class that takes in a .fasta genome file and returns a text document containing all the potential gene locations. 
